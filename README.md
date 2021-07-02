@@ -65,5 +65,5 @@ Side note: In this cassandra connector version, we had to add the package `commo
 
 ## Contact us
 
-Script developed by Victor Colome - victor.colome@clearpeaks.com
+Script developed by Victor Colome - victor.colome@clearpeaks.com\
 Seeking for help? Contact us - info@clearpeaks.com

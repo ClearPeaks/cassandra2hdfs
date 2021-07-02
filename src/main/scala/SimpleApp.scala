@@ -6,7 +6,7 @@ object SimpleApp extends Serializable {
 
   /**************************************************************************************
     * VARIABLES DEFINITION
-    * This session will be used to ingest data from a Cassandra cluster.
+    * Adapt the variables below
     *************************************************************************************/
 
   // Representative of the my_keyspace.my_table table.
